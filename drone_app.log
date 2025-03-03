@@ -1,0 +1,178 @@
+{"timestamp": "2025-03-01 12:16:54", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:16:59", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:04", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:06", "logger": "root", "level": "INFO", "message": "[BACKGROUND] YOLO model initialized"}
+{"timestamp": "2025-03-01 12:17:06", "logger": "root", "level": "INFO", "message": "[BACKGROUND] YOLO model initialized"}
+{"timestamp": "2025-03-01 12:17:07", "logger": "root", "level": "INFO", "message": "Model ready - Camera button enabled"}
+{"timestamp": "2025-03-01 12:17:07", "logger": "root", "level": "INFO", "message": "Model ready - Camera button enabled"}
+{"timestamp": "2025-03-01 12:17:09", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:14", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:19", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:24", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:28", "logger": "root", "level": "INFO", "message": "Kamera 0 ile a\u00e7\u0131ld\u0131."}
+{"timestamp": "2025-03-01 12:17:29", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:34", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:39", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:43", "logger": "root", "level": "INFO", "message": "Bounding box se\u00e7ildi ve etikete tam oturacak \u015fekilde \u00f6l\u00e7eklendi."}
+{"timestamp": "2025-03-01 12:17:44", "logger": "root", "level": "INFO", "message": "Bounding box se\u00e7ildi ve etikete tam oturacak \u015fekilde \u00f6l\u00e7eklendi."}
+{"timestamp": "2025-03-01 12:17:44", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:45", "logger": "root", "level": "INFO", "message": "Bounding box se\u00e7ildi ve etikete tam oturacak \u015fekilde \u00f6l\u00e7eklendi."}
+{"timestamp": "2025-03-01 12:17:49", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:51", "logger": "root", "level": "INFO", "message": "Attempting connection to tcp:127.0.0.1:5760"}
+{"timestamp": "2025-03-01 12:17:51", "logger": "root", "level": "INFO", "message": "Attempting async connection to tcp:127.0.0.1:5760"}
+{"timestamp": "2025-03-01 12:17:51", "logger": "autopilot", "level": "CRITICAL", "message": "APM:Copter V3.3 (d6053245)"}
+{"timestamp": "2025-03-01 12:17:51", "logger": "autopilot", "level": "CRITICAL", "message": "Frame: QUAD"}
+{"timestamp": "2025-03-01 12:17:52", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:17:53", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:17:54", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:17:54", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:17:56", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:17:57", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:17:58", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:17:59", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:17:59", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:18:00", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:18:01", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:18:02", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: "}
+{"timestamp": "2025-03-01 12:18:02", "logger": "root", "level": "INFO", "message": "Drone connection established"}
+{"timestamp": "2025-03-01 12:18:02", "logger": "root", "level": "INFO", "message": "Battery Health: 99.89682539682538% (Excellent)"}
+{"timestamp": "2025-03-01 12:18:02", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:02", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:03", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:03", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:04", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:04", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:04", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): VehicleMode:STABILIZE"}
+{"timestamp": "2025-03-01 12:18:05", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:05", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:06", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:06", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:07", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:07", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:08", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:08", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:09", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): VehicleMode:STABILIZE"}
+{"timestamp": "2025-03-01 12:18:09", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:09", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:11", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:11", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:12", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:12", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:13", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:13", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:14", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:14", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:14", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): VehicleMode:STABILIZE"}
+{"timestamp": "2025-03-01 12:18:15", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:15", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:16", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:16", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:17", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:17", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:19", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:18:19", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:18:19", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): VehicleMode:STABILIZE"}
+{"timestamp": "2025-03-01 12:18:20", "logger": "root", "level": "INFO", "message": "BatteryLevelWorker cleanup completed."}
+{"timestamp": "2025-03-01 12:18:20", "logger": "root", "level": "INFO", "message": "Drone connection closed."}
+{"timestamp": "2025-03-01 12:18:22", "logger": "root", "level": "INFO", "message": "Camera closed."}
+{"timestamp": "2025-03-01 12:24:20", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:24:25", "logger": "root", "level": "INFO", "message": "[BACKGROUND] YOLO model initialized"}
+{"timestamp": "2025-03-01 12:24:25", "logger": "root", "level": "INFO", "message": "[BACKGROUND] YOLO model initialized"}
+{"timestamp": "2025-03-01 12:24:25", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:24:26", "logger": "root", "level": "INFO", "message": "Model ready - Camera button enabled"}
+{"timestamp": "2025-03-01 12:24:26", "logger": "root", "level": "INFO", "message": "Model ready - Camera button enabled"}
+{"timestamp": "2025-03-01 12:24:26", "logger": "root", "level": "INFO", "message": "Kamera 0 ile a\u00e7\u0131ld\u0131."}
+{"timestamp": "2025-03-01 12:24:30", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:24:33", "logger": "root", "level": "INFO", "message": "Attempting connection to tcp:127.0.0.1:5760"}
+{"timestamp": "2025-03-01 12:24:33", "logger": "root", "level": "INFO", "message": "Attempting async connection to tcp:127.0.0.1:5760"}
+{"timestamp": "2025-03-01 12:24:34", "logger": "autopilot", "level": "CRITICAL", "message": "APM:Copter V3.3 (d6053245)"}
+{"timestamp": "2025-03-01 12:24:34", "logger": "autopilot", "level": "CRITICAL", "message": "Frame: QUAD"}
+{"timestamp": "2025-03-01 12:24:35", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:24:35", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:24:36", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:24:37", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:24:38", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:24:39", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:24:40", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:24:40", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:24:41", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:24:42", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:24:43", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: parameters"}
+{"timestamp": "2025-03-01 12:24:45", "logger": "dronekit", "level": "DEBUG", "message": "Still waiting for data from vehicle: "}
+{"timestamp": "2025-03-01 12:24:45", "logger": "root", "level": "INFO", "message": "Drone connection established"}
+{"timestamp": "2025-03-01 12:24:45", "logger": "root", "level": "INFO", "message": "Battery Health: 99.89682539682538% (Excellent)"}
+{"timestamp": "2025-03-01 12:24:45", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:24:45", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:24:45", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): VehicleMode:STABILIZE"}
+{"timestamp": "2025-03-01 12:24:46", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:24:46", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:24:47", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:24:47", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:24:48", "logger": "root", "level": "INFO", "message": "UI battery updated: 100%"}
+{"timestamp": "2025-03-01 12:24:48", "logger": "root", "level": "INFO", "message": "Battery Level Updated: 100%"}
+{"timestamp": "2025-03-01 12:24:48", "logger": "root", "level": "INFO", "message": "BatteryLevelWorker cleanup completed."}
+{"timestamp": "2025-03-01 12:24:48", "logger": "root", "level": "INFO", "message": "Drone connection closed."}
+{"timestamp": "2025-03-01 12:24:50", "logger": "root", "level": "INFO", "message": "Camera closed."}
+{"timestamp": "2025-03-01 12:24:50", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:28:13", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:28:18", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:28:18", "logger": "root", "level": "INFO", "message": "[BACKGROUND] YOLO model initialized"}
+{"timestamp": "2025-03-01 12:28:18", "logger": "root", "level": "INFO", "message": "[BACKGROUND] YOLO model initialized"}
+{"timestamp": "2025-03-01 12:28:19", "logger": "root", "level": "INFO", "message": "Model ready - Camera button enabled"}
+{"timestamp": "2025-03-01 12:28:19", "logger": "root", "level": "INFO", "message": "Model ready - Camera button enabled"}
+{"timestamp": "2025-03-01 12:28:20", "logger": "root", "level": "INFO", "message": "Kamera 0 ile a\u00e7\u0131ld\u0131."}
+{"timestamp": "2025-03-01 12:28:23", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:28:28", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:28:33", "logger": "root", "level": "INFO", "message": "Camera closed."}
+{"timestamp": "2025-03-01 12:28:33", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:32:20", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:32:25", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:32:30", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:34:31", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:35:38", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:41:44", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:41:49", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 12:41:54", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:47:29", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:47:34", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:47:39", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:47:44", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:47:49", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:47:52", "logger": "root", "level": "INFO", "message": "[BACKGROUND] YOLO model initialized"}
+{"timestamp": "2025-03-01 15:47:52", "logger": "root", "level": "INFO", "message": "[BACKGROUND] YOLO model initialized"}
+{"timestamp": "2025-03-01 15:47:54", "logger": "root", "level": "INFO", "message": "Model ready - Camera button enabled"}
+{"timestamp": "2025-03-01 15:47:54", "logger": "root", "level": "INFO", "message": "Model ready - Camera button enabled"}
+{"timestamp": "2025-03-01 15:47:54", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:47:56", "logger": "root", "level": "INFO", "message": "Kamera 0 ile a\u00e7\u0131ld\u0131."}
+{"timestamp": "2025-03-01 15:47:59", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:48:04", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:48:09", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:48:14", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:48:19", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:48:24", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:48:29", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:48:34", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:48:39", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:48:44", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:48:49", "logger": "root", "level": "INFO", "message": "Camera closed."}
+{"timestamp": "2025-03-01 15:48:49", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-01 15:51:39", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:56:38", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:56:39", "logger": "root", "level": "INFO", "message": "[BACKGROUND] YOLO model initialized"}
+{"timestamp": "2025-03-03 22:56:39", "logger": "root", "level": "INFO", "message": "[BACKGROUND] YOLO model initialized"}
+{"timestamp": "2025-03-03 22:56:40", "logger": "root", "level": "INFO", "message": "Model ready - Camera button enabled"}
+{"timestamp": "2025-03-03 22:56:40", "logger": "root", "level": "INFO", "message": "Model ready - Camera button enabled"}
+{"timestamp": "2025-03-03 22:56:43", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:56:48", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:56:53", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:56:58", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:57:03", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:57:08", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:57:11", "logger": "root", "level": "INFO", "message": "Kamera 0 ile a\u00e7\u0131ld\u0131."}
+{"timestamp": "2025-03-03 22:57:13", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:57:18", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:57:23", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:57:28", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:57:33", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}
+{"timestamp": "2025-03-03 22:57:37", "logger": "root", "level": "INFO", "message": "Camera closed."}
+{"timestamp": "2025-03-03 22:57:38", "logger": "root", "level": "INFO", "message": "Current mode updated (via timer): N/A"}

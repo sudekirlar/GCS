@@ -1,0 +1,9 @@
+typing-extensions
+torch
+PyQt5
+PyQtWebEngine
+opencv-python
+numpy
+dronekit
+pyserial
+ultralytics
